@@ -36,4 +36,8 @@ Use crontask by executing 'crontab -e' in your terminal
 add the following line in the crontab
 > */5 * * * * /usr/bin/python3 /[path_to_your_ftx_twap/twap.py_script]
 
-Your computer will TWAP the markets you mentionned in twap.py every 5 minutes.
+Your computer will TWAP the markets you mentionned in twap.py every 5 minutes.+
+
+
+
+If you encounter a problem, DM 0xTechnician on Twitter
