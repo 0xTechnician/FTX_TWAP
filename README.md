@@ -40,6 +40,9 @@ Your computer will TWAP the markets you mentionned in twap.py every 5 minutes.+
 
 
 
+----
+
+
 If you encounter a problem, DM 0xTechnician on Twitter
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/0xTechnician.svg?style=social&label=Follow%200xTechnician)](https://twitter.com/0xTechnician)
