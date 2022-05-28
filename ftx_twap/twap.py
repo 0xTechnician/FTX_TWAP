@@ -2,11 +2,11 @@ import ftx_wrapper
 
 '''
 Replace the values surrounded by quotes with your API KEYS 
-and the subaccount you want to executequeries on
+and the subaccount you want to execute queries on
 '''
 FTX_API_KEY = 'YOUR_API_KEY'
 FTX_API_SECRET = 'YOUR_API_SECRET'
-FTX_SUB = "YOUR_SUBACCOUNT_NAME"
+FTX_SUB = 'YOUR_SUBACCOUNT_NAME'
 
 
 '''
