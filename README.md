@@ -8,7 +8,7 @@ A python script to TWAP on your favorite shitcoins
 
 Make sure to have python3 installed on your computer.
 
-Using powershell or a linux terminal : 
+Using powershell or a linux terminal, go to your working directory (FTX_TWAP) : 
 
 > pip3 install -r requirements.txt
 
