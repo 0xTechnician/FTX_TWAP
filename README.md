@@ -4,9 +4,16 @@ A python script to TWAP on your favorite shitcoins
 
 ## How to use
 
+### Install requests library (allowing to execute http request to FTX)
+
+Make sure to have python3 installed on your computer.
+
+Using powershell or a linux terminal : 
+
+> pip3 install -r requirements.txt
+
 ### Modify ftx_twap/twap.py
 Modify the code of twap.py with the credentials of your FTX account (API_KEY, API_SECRET, SUBACCOUNT_NAME) and the markets you want to TWAP.
-
 
 ### Create a scheduled task
 
