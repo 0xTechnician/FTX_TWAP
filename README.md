@@ -1,5 +1,5 @@
 # FTX_TWAP
-A python script to TWAP on your favorite shitcoins
+A python script to TWAP on your favorite shitcoins. If you're not familiar at all with coding and computers, I can only recommend you to use https://insilicoterminal.com/ to TWAP during your browser session.
 
 
 ## How to use
